@@ -4,7 +4,7 @@ const {
     Presence,
     Mimetype,
     GroupSettingChange
-} = require('@patulinomods/patoegringo')
+} = require('patulinomods/patoegringo')
 const { color, bgcolor } = require('./lib/color')
 const { help } = require('./src/help')
 const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
