@@ -1,5 +1,5 @@
 {
-  "name": "termux-wabot",
+  "name": "gringo2",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "MhankBarBar",
+  "author": "patulinomods",
   "license": "ISC",
   "dependencies": {
     "patulinomods/patoegringo": "github:patulinomods/patoegringo",
@@ -41,7 +41,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhankbarbar/termux-wabot.git"
+    "url": "git+https://github.com/patulinomods/gringo2.git"
   },
   "bugs": {
     "url": "https://github.com/mhankbarbar/termux-wabot/issues"
