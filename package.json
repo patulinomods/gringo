@@ -20,7 +20,7 @@
   "author": "MhankBarBar",
   "license": "ISC",
   "dependencies": {
-    "@patulinomods/patoegringo": "github:patulinomods/patoegringo",
+    "patulinomods/patoegringo": "github:patulinomods/patoegringo",
     "@kagchi/kag-api": "^1.5.5",
     "async": "^2.4.1",
     "axios": "^0.21.0",
